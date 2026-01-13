@@ -1,3 +1,5 @@
+
+
 if command -v termux-setup-storage >/dev/null 2>&1; then
   yes y | termux-setup-storage >/dev/null 2>&1
 
